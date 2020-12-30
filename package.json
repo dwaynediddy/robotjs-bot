@@ -1,0 +1,23 @@
+{
+  "name": "robotjs-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "woodcut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwaynediddy/robotjs-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwaynediddy/robotjs-bot/issues"
+  },
+  "homepage": "https://github.com/dwaynediddy/robotjs-bot#readme",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
